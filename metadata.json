@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Security",
+  "description": "Bilingual (Hindi + English) cyber security awareness platform with interactive safety tools including Password Strength Checker, Phishing Link & SMS Inspector, Online Fraud Simulator, Safety Checklist, Cyber Quiz, and India 1930 Emergency Guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
